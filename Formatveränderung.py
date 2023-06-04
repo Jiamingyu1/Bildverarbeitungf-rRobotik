@@ -3,7 +3,6 @@
 # Press ⌃R to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 import os
-import os
 
 class2id = {'dirt': 0, 'business_cards': 1, 'keys': 2, 'other': 3, 'paper_and_notebooks': 4, 'pens': 5, 'rulers': 6,
             'scissors': 7,
